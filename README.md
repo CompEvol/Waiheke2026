@@ -1,4 +1,4 @@
-# The 30th Annual New Zealand Phylogenomics Meeting — Waiheke 2026
+# The 30th Annual New Zealand Phylogenomics Meeting
 
 Tuesday 10 Feb — Friday 13 Feb 2026.
 
