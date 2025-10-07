@@ -12,7 +12,7 @@ Tuesday 10 Feb — Friday 13 Feb 2026.
 
 ## Conference co-organisers:
 
-David Welch
+David Welch, Walter Xie
 
 The Centre for Computational Evolution, University of Auckland
 
