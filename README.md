@@ -1,4 +1,4 @@
-# The 30th Annual New Zealand Phylogenomics Meeting
+# The 29th Annual New Zealand Phylogenomics Meeting
 
 Tuesday 10 Feb — Friday 13 Feb 2026.
 
