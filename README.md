@@ -30,6 +30,10 @@ The registration portal will open shortly.
 
 We recommend that you book early since February is a busy time for Waiheke Island. Popular websites that list holiday houses for rent are, for example, Bookabach and Airbnb. 
 
+## Ferry to Waiheke
+
+[Fullers360](https://www.fullers.co.nz/destinations-and-experiences/destinations/waiheke-island/)
+
 ## Sponsorship:
 
 We gratefully acknowledge financial support from the Centre for Computational Evolution at the University of Auckland.
