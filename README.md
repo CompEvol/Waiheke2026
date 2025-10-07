@@ -28,7 +28,8 @@ The registration portal will open shortly.
 
 ## Accommodation:
 
-We recommend that you book early since February is a busy time for Waiheke Island. Popular websites that list holiday houses for rent are, for example, Bookabach and Airbnb. 
+We recommend that you book early since February is a busy time for Waiheke Island. For comfortable and affordable accommodation, you may consider [Onetangi Beach Apartments](https://onetangi.co.nz/) or the [Waiheke Backpackers Hostel](https://www.waihekebackpackers.co.nz/), both offering good value and convenient locations.
+Alternatively, popular websites such as Bookabach and Airbnb offer a variety of holiday houses for rent.
 
 ## Ferry to Waiheke
 
