@@ -4,7 +4,7 @@ Tuesday 10 Feb — Friday 13 Feb 2026.
 
 ## Conference venue:
 
-Onetangi Community Hall, Waiheke Island, New Zealand
+[Onetangi Community Hall](https://onetangicommunityhall.com), Waiheke Island, New Zealand
 
 [Google Map](https://maps.app.goo.gl/F98FMzZpeYsVhCXB7)
 
