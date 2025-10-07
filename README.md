@@ -14,7 +14,7 @@ Tuesday 10 Feb — Friday 13 Feb 2026.
 
 David Welch, Walter Xie
 
-The Centre for Computational Evolution, University of Auckland
+The [Centre for Computational Evolution](https://www.computationalevolution.auckland.ac.nz), University of Auckland
 
 Inquiries: Please contact David Welch at david.welch@auckland.ac.nz.
 
