@@ -16,7 +16,7 @@ David Welch, Walter Xie
 
 The [Centre for Computational Evolution](https://www.computationalevolution.auckland.ac.nz), University of Auckland
 
-Inquiries: Please contact David Welch at david.welch@auckland.ac.nz.
+Contact David Welch with any enquiries at [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz).
 
 ## Overview:
 
