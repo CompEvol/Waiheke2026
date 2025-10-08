@@ -20,7 +20,7 @@ Contact David Welch with any enquiries at [david.welch@auckland.ac.nz](mailto:da
 
 ## Overview:
 
-The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interface of mathematics, computer science, statistics, and biology in the study of phylogenetics, genome analysis and molecular evolution. In 2026, the meeting will again be held on Waiheke Island, a short ferry trip away from Auckland City. The venue will be available Tuesday morning (10th) through to Friday midday (13th). We expect talks to start Tuesday morning  and end by lunchtime on Friday. 
+The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interface of mathematics, computer science, statistics, and biology in the study of phylogenetics, genome analysis and molecular evolution. In 2026, the meeting will again be held on Waiheke Island, a short ferry trip away from Auckland City. We will be at a new venue in Onetangi. Depending on final numbers, talks will start some time after mid-morning on Tuesday and we will finish by early afternoon on Friday (13th).  
 
 ## Registration:
 
@@ -28,8 +28,8 @@ The registration portal will open shortly.
 
 ## Accommodation:
 
-We recommend that you book early since February is a busy time for Waiheke Island. For comfortable and affordable accommodation, you may consider [Onetangi Beach Apartments](https://onetangi.co.nz/) or the [Waiheke Backpackers Hostel](https://www.waihekebackpackers.co.nz/), both offering good value and convenient locations.
-Alternatively, popular websites such as Bookabach and Airbnb offer a variety of holiday houses for rent.
+We recommend that you book early since February is a busy time for Waiheke Island. For  accommodation, consider [Onetangi Beach Apartments](https://onetangi.co.nz/) which is comfortable and offers some good sharing options or nice units if you are well-funded, or the [Waiheke Backpackers Hostel](https://www.waihekebackpackers.co.nz/) which is good value. Both are close to the meeting venue.
+Alternatively, websites such as Bookabach and Airbnb offer a variety of holiday houses for rent.
 
 ## Ferry to Waiheke
 
