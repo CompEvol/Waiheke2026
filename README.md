@@ -20,7 +20,7 @@ Contact David Welch with any enquiries at [david.welch@auckland.ac.nz](mailto:da
 
 ## Overview:
 
-The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interface of mathematics, computer science, statistics, and biology in the study of phylogenetics, genome analysis and molecular evolution. In 2026, the meeting will again be held on Waiheke Island, a short ferry trip away from Auckland City. We will be at a new venue in Onetangi. Depending on final numbers, talks will start some time after mid-morning on Tuesday and we will finish by early afternoon on Friday (13th).  
+The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interface of mathematics, computer science, statistics, and biology in the study of phylogenetics, genome analysis and molecular evolution. In 2026, the meeting will again be held on Waiheke Island, a short ferry trip away from Auckland City. We will be at a new venue in Onetangi. The programme will be finalised later but talks will start after lunch on Tuesday (10th) and we will finish by lunch on Friday (13th).  
 
 ## Registration:
 
