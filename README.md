@@ -1,6 +1,6 @@
 # The 29th Annual New Zealand Phylogenomics Meeting
 
-Tuesday 10 Feb — Friday 13 Feb 2026.
+Noon, Tuesday 10 Feb — Noon, Friday 13 Feb 2026.
 
 <img src="WaihekeIsland.jpg" alt="Waiheke Island" width="500">
 
@@ -16,15 +16,20 @@ David Welch, Walter Xie
 
 The [Centre for Computational Evolution](https://www.computationalevolution.auckland.ac.nz), University of Auckland
 
-Contact David Welch with any enquiries at [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz).
+Contact David Welch [david.welch@auckland.ac.nz](mailto:david.welch@auckland.ac.nz) with any enquiries.
 
 ## Overview:
 
 The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interface of mathematics, computer science, statistics, and biology in the study of phylogenetics, genome analysis and molecular evolution. In 2026, the meeting will again be held on Waiheke Island, a short ferry trip away from Auckland City. We will be at a new venue in Onetangi. The programme will be finalised later but talks will start after lunch on Tuesday (10th) and we will finish by lunch on Friday (13th).  
 
-## Registration:
+## Talks
 
-The registration portal will open shortly. 
+Anyone who is attending is encouraged (but not obligated) to give a 20 min talk. When you register at the link below, indicate whether you wish to talk or not. We'll follow up with another form soon to get talk titles and abstracts.
+
+## Registration and cost:
+
+The cost is $220 for students and $330 for all others. Please [register and pay here](https://www.eventbrite.co.nz/e/the-29th-annual-new-zealand-phylogenomics-meeting-tickets-1910040485509). You can pay with a debit or credit card, or via paypal.
+
 
 ## Accommodation:
 
@@ -33,7 +38,7 @@ Alternatively, websites such as Bookabach and Airbnb offer a variety of holiday 
 
 ## Ferry to Waiheke
 
-[Fullers360](https://www.fullers.co.nz/destinations-and-experiences/destinations/waiheke-island/)
+[Fullers360](https://www.fullers.co.nz/destinations-and-experiences/destinations/waiheke-island/) or [Island Direct](https://islanddirect.co.nz/)
 
 ## Sponsorship:
 
