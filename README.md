@@ -28,7 +28,7 @@ Anyone who is attending is encouraged (but not obligated) to give a 20 min talk.
 
 ## Draft programme
 
-A draft [programme is here (pdf)](draft_programme.pdf) is here. If you need to make changes, email the organisers. 
+A draft [programme is here (pdf)](draft_programme.pdf). If you need to make changes, email the organisers. 
 
 ## Registration, cost, and talk submission
 
