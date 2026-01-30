@@ -26,6 +26,10 @@ The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interfa
 
 Anyone who is attending is encouraged (but not obligated) to give a 20 min talk. After you register, use the form linked below to submit your talk title and abstract.
 
+## Draft programme
+
+A draft [programme is here (pdf)](draft_programme.pdf) is here. If you need to make changes, email the organisers. 
+
 ## Registration, cost, and talk submission
 
 The cost is $220 for students and $330 for all others. Please [register and pay here](https://www.eventbrite.co.nz/e/the-29th-annual-new-zealand-phylogenomics-meeting-tickets-1910040485509). You can pay with a debit or credit card, or via paypal. 
