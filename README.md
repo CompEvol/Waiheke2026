@@ -26,9 +26,13 @@ The 29th Annual New Zealand Phylogenomics Meeting is a conference at the interfa
 
 Anyone who is attending is encouraged (but not obligated) to give a 20 min talk. After you register, use the form linked below to submit your talk title and abstract.
 
-## Draft programme
+## Programme
 
-A draft [programme is here (pdf)](draft_programme.pdf). If you need to make changes, email the organisers. 
+The [programme is here (pdf)](Waiheke2026_programme.pdf).
+
+The conference starts at 12 noon on Tuesday with Lunch. The first talk is at 1:35 pm. 
+
+The conference dinner will be at [Ki Māha](https://kimaha.nz) at 6:30 pm on Wednesday 11th. If you want to bring guests, please contact [David Welch](mailto:david.welch@auckland.ac.nz).
 
 ## Registration, cost, and talk submission
 
